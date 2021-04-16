@@ -1,0 +1,6 @@
+img{
+    width: 100%;
+}
+#cuadro img:hover{
+    width: 90%;
+}
